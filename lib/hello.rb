@@ -15,7 +15,7 @@ def hello_t(array)
 end	end
 
 
-# call your method here!	# call your method here!
+
 
 
 ["Tim", "Tom", "Jim"].each do |name|
